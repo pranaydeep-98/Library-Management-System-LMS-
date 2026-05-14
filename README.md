@@ -48,7 +48,7 @@ The application uses **JWT Authentication** to provide secure login and role-bas
 * React
 * React Router
 * Axios
-* CSS / Bootstrap
+* HTML,CSS / Bootstrap
 
 ---
 
